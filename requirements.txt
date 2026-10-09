@@ -1,0 +1,11 @@
+brainpy==2.8.2
+brainpy_state==0.1.0
+brainstate==0.5.4
+braintools==0.3.0
+brainunit==0.5.2
+brainevent==0.2.1
+jax==0.11.1
+jaxlib==0.11.1
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
